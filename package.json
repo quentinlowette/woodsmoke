@@ -1,0 +1,21 @@
+{
+    "name": "space-blue",
+    "displayName": "Space Blue",
+    "description": "A dark blue VS Code theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Space Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Space Blue-color-theme.json"
+            }
+        ]
+    }
+}

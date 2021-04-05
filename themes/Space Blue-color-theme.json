@@ -930,6 +930,7 @@
 		"notebook.focusedEditorBorder": "#ff0000",
 		"notebook.focusedRowBorder": "#24292e",
 		"notebook.inactiveFocusedCellBorder": "#ff0000",
+		"notebook.inactiveSelectedCellBorder": "#ff0000",
 		"notebook.outputContainerBackgroundColor": "#ff0000",
 		"notebook.rowHoverBackground": "#1d2125",
 		"notebook.selectedCellBackground": "#ff0000",
@@ -1086,7 +1087,7 @@
 		"symbolIcon.arrayForeground": "#f6f8fa",
 		"symbolIcon.booleanForeground": "#ff0000",
 		"symbolIcon.classForeground": "#00b890",
-		"symbolIcon.colorForeground": "#ff0000",
+		"symbolIcon.colorForeground": "#f6f8fa",
 		"symbolIcon.constantForeground": "#ff0000",
 		"symbolIcon.constructorForeground": "#ff0000",
 		"symbolIcon.enumeratorForeground": "#d4a964",
@@ -1213,10 +1214,14 @@
 		"welcomePage.progress.foreground": "#5893d4",
 		"welcomePage.tileBackground": "#1d2125",
 		"welcomePage.tileHoverBackground": "#24292e",
+		"welcomePage.tileShadow.": "#ff0000",
 		//
 		"widget.shadow": "#070809",
 		//
 		"window.activeBorder": "#00000000",
-		"window.inactiveBorder": "#00000000"
+		"window.inactiveBorder": "#00000000",
+		//
+		"workspaceTrust.trustedForergound": "#ff0000",
+		"workspaceTrust.untrustedForeground": "#ff0000"
 	},
 }

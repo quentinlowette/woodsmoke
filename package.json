@@ -1,6 +1,6 @@
 {
-    "name": "space-blue",
-    "displayName": "Space Blue",
+    "name": "woodsmoke",
+    "displayName": "Woodsmoke",
     "description": "A dark blue VS Code theme.",
     "version": "0.0.1",
     "engines": {
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Space Blue",
+                "label": "Woodsmoke",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Space Blue-color-theme.json"
+                "path": "./themes/Woodsmoke-color-theme.json"
             }
         ]
     }

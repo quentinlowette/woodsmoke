@@ -138,7 +138,7 @@
 		{
 			"scope": "markup.inserted",
 			"settings": {
-				// "foreground": "#C1D7AE"
+				// "foreground": "#5893d4"
 				"foreground": "#ff0000"
 			}
 		},
@@ -570,6 +570,30 @@
 				// "foreground": "#C8C8C8"
 				"foreground": "#ff0000"
 			}
+		},
+		{
+			"scope": "log.error",
+			"settings": {
+				"foreground": "#d24b4f"
+			}
+		},
+		{
+			"scope": "log.warning",
+			"settings": {
+				"foreground": "#eec340"
+			}
+		},
+		{
+			"scope": "log.info",
+			"settings": {
+				"foreground": "#5893d4"
+			}
+		},
+		{
+			"scope": "log.debug",
+			"settings": {
+				"foreground": "#f6f8fa"
+			}
 		}
 	],
 	"colors": {
@@ -663,7 +687,7 @@
 		"descriptionForeground": "#949596",
 		//
 		"diffEditor.border": "#949596",
-		"diffEditor.diagonalFill": "#ff0000",
+		"diffEditor.diagonalFill": "#3a3e43",
 		"diffEditor.insertedTextBackground": "#124012",
 		"diffEditor.insertedTextBorder": "#124012",
 		"diffEditor.removedTextBackground": "#541e20",
@@ -833,7 +857,7 @@
 		"gitDecoration.deletedResourceForeground": "#d24b4f",
 		"gitDecoration.ignoredResourceForeground": "#858687",
 		"gitDecoration.modifiedResourceForeground": "#5893d4",
-		"gitDecoration.renamedResourceForeground": "#ff0000",
+		"gitDecoration.renamedResourceForeground": "#5893d4",
 		"gitDecoration.stageDeletedResourceForeground": "#d24b4f",
 		"gitDecoration.stageModifiedResourceForeground": "#5893d4",
 		"gitDecoration.submoduleResourceForeground": "#ff0000",
@@ -1088,7 +1112,7 @@
 		"symbolIcon.booleanForeground": "#ff0000",
 		"symbolIcon.classForeground": "#00b890",
 		"symbolIcon.colorForeground": "#f6f8fa",
-		"symbolIcon.constantForeground": "#ff0000",
+		"symbolIcon.constantForeground": "#f6f8fa",
 		"symbolIcon.constructorForeground": "#ff0000",
 		"symbolIcon.enumeratorForeground": "#d4a964",
 		"symbolIcon.enumeratorMemberForeground": "#ff0000",

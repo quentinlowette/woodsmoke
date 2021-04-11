@@ -30,7 +30,7 @@
      inkscape:cx="256"
      inkscape:cy="246.14028"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
@@ -60,26 +60,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Background">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05833"
-       id="rect836"
-       width="135.46666"
-       height="135.46666"
-       x="0"
-       y="0" />
-  </g>
+     inkscape:label="Background" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     sodipodi:insensitive="true">
     <circle
        style="fill:#16191c;fill-opacity:1;stroke:none;stroke-width:1.05833"
        id="path833"
@@ -90,16 +83,17 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Layer 2">
+     inkscape:label="Layer 2"
+     sodipodi:insensitive="true">
     <path
        id="path847"
        style="fill:#24292e;fill-opacity:1;stroke:none;stroke-width:3.99999"
-       d="M 488.28516 148.39258 L 317.9668 318.71094 L 148.39258 488.28516 A 255.99999 255.99999 0 0 0 256 512 A 255.99999 255.99999 0 0 0 512 256 A 255.99999 255.99999 0 0 0 488.28516 148.39258 z "
+       d="M 488.28516,148.39258 317.9668,318.71094 148.39258,488.28516 A 255.99999,255.99999 0 0 0 256,512 255.99999,255.99999 0 0 0 512,256 255.99999,255.99999 0 0 0 488.28516,148.39258 Z"
        transform="scale(0.26458333)" />
     <path
        id="path839"
        style="fill:#5893d4;fill-opacity:1;stroke:none;stroke-width:3.99999"
-       d="M 512 256 L 384.43555 383.56445 L 256 512 A 255.99999 255.99999 0 0 0 512 256 z "
+       d="M 512,256 384.43555,383.56445 256,512 A 255.99999,255.99999 0 0 0 512,256 Z"
        transform="scale(0.26458333)" />
   </g>
 </svg>

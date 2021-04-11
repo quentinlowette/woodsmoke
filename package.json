@@ -35,6 +35,6 @@
     },
     "scripts": {
         "package": "vsce package -o ./bin/",
-        "vsce-publish": "vsce publish"
+        "publish": "vsce publish"
     }
 }

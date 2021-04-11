@@ -13,13 +13,14 @@
         "email": "quentin.lowette@gmail.com"
     },
     "repository": {
-        "url": "https://github.com/quentinlowette/woodsmoke.git",
-        "type": "git"
+        "type": "git",
+        "url": "https://github.com/quentinlowette/woodsmoke.git"
     },
     "categories": [
         "Themes"
     ],
     "keywords": [
+        "Woodsmoke",
         "theme",
         "dark"
     ],
@@ -31,5 +32,9 @@
                 "path": "./themes/Woodsmoke-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "package": "vsce package -o ./bin/",
+        "vsce-publish": "vsce publish"
     }
 }

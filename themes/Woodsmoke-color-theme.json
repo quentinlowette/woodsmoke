@@ -138,8 +138,8 @@
 		{
 			"scope": "markup.inserted",
 			"settings": {
-				// "foreground": "#5893d4"
-				"foreground": "#ff0000"
+				"foreground": "#c586c0"
+				// "foreground": "#ff0000"
 			}
 		},
 		{

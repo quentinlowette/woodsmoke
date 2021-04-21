@@ -1227,7 +1227,7 @@
 		"titleBar.inactiveForeground": "#949596",
 		//
 		"tree.indentGuidesStroke": "#505458",
-		"tree.tableColumnsBorder": "#ff0000",
+		"tree.tableColumnsBorder": "#505458",
 		//
 		"walkThrough.embeddedEditorBackground": "#0e1012",
 		//

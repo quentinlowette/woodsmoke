@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+- Sets color of table columns borders
+
 ## [v0.1.3] - 2021-04-17
 
 ### Changed

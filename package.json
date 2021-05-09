@@ -2,7 +2,7 @@
     "name": "woodsmoke",
     "displayName": "Woodsmoke",
     "description": "A dark blue VS Code theme.",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "icon": "icon.png",
     "publisher": "QuentinLowette",
     "engines": {

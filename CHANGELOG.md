@@ -7,8 +7,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v0.1.4] - 2021-05-09
+
+### Added
+- Button border color
+- Keybinding label colors
+- Ports running process color
+- Toolbar colors
+- Workspace trust colors
+
 ### Changed
 - Sets color of table columns borders
+- Sets the debug token expressions colors
+- Sets the debug view value changed highlight color
+- Sets search range highlight background color
+- Updates the line highlight color
+- Updates the stack frame highlight color
+- Updates the word highlight strong color
+- Sets overview ruler background color
+- Sets common ancestor color
+- Updates conflicting resource color
+- Sets the list deemphasized color
+- Updates the minimap selection color
+- Updates selection background color
+- Sets file, boolean and number symbol icon colors
+
+### Removed
+- Search range highlight border color
 
 ## [v0.1.3] - 2021-04-17
 

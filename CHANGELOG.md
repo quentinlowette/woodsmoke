@@ -7,6 +7,35 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v0.1.5] - 2021-09-04
+
+### Added
+
+- Ghost text foreground
+- Peek editor header colors
+- List focus highlight color
+- Quick input focus foreground
+- Settings focus row border
+- Settings hover row background
+
+### Changed
+- Secondary buttons colors
+- Sets debug token colors (error and string)
+- Sets debug state colors
+- Adds transparency to the diff editor colors
+- Updates suggest widget colors
+- Notebook colors
+- Peek view title label color
+- Sets constructor and units symbol icons color
+- Sets terminal drop background color
+
+### Removed
+
+- Deprecated image preview border property
+- Deprecated notebook properties
+- Deprecated testing properties
+- Deprecated workspace trust properties
+
 ## [v0.1.4] - 2021-05-09
 
 ### Added

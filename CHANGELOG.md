@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [v0.1.5] - 2021-09-27
+
+### Added
+
+- Banner colors
+- Terminal tab active border
+- Invalid list item foreground
+
 ## [v0.1.5] - 2021-09-04
 
 ### Added

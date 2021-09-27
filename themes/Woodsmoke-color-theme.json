@@ -612,9 +612,9 @@
 		"badge.background": "#505458",
 		"badge.foreground": "#f6f8fa",
 		//
-		"banner.background": "#ff0000",
-		"banner.foreground": "#ff0000",
-		"banner.iconForeground": "#ff0000",
+		"banner.background": "#233b55",
+		"banner.foreground": "#f6f8fa",
+		"banner.iconForeground": "#5893d4",
 		//
 		"breadcrumb.activeSelectionForeground": "#f6f8fa",
 		"breadcrumb.background": "#16191c",
@@ -661,7 +661,7 @@
 		"debugIcon.breakpointDisabledForeground": "#505458",
 		"debugIcon.breakpointForeground": "#d24b4f",
 		"debugIcon.breakpointStackframeForeground": "#d24b4f",
-		"debugIcon.breakpointUnverifiedForeground": "#ff0000",
+		"debugIcon.breakpointUnverifiedForeground": "#949596",
 		"debugIcon.continueForeground": "#5893d4",
 		"debugIcon.disconnectForeground": "#d24b4f",
 		"debugIcon.pauseForeground": "#5893d4",
@@ -936,7 +936,7 @@
 		"list.inactiveSelectionBackground": "#3a3e43",
 		"list.inactiveSelectionForeground": "#f6f8fa",
 		// "list.inactiveSelectionIconForeground": "#ff0000",
-		"list.invalidItemForeground": "#ff0000",
+		"list.invalidItemForeground": "#d24b4f",
 		"list.warningForeground": "#eec340",
 		//
 		"listFilterWidget.background": "#2c4a6a",
@@ -1228,7 +1228,7 @@
 		"terminal.dropBackground": "#3a3e437f",
 		"terminal.foreground": "#f6f8fa",
 		"terminal.selectionBackground": "#233b55",
-		"terminal.tab.activeBorder": "#ff0000",
+		"terminal.tab.activeBorder": "#5893d4",
 		//
 		"terminalCursor.background": "#f6f8fa",
 		"terminalCursor.foreground": "#2c4a6a",

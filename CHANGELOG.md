@@ -7,7 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [v0.1.5] - 2021-09-27
+## [v0.2.0] - 2021-12-09
+
+### Changed
+
+- Refactor the entire theme and change all the interface colors
+
+## [v0.1.6] - 2021-09-27
 
 ### Added
 
